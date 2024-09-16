@@ -1,0 +1,6 @@
+arithmetic operator
+relational operator
+logical operator
+assignment operator
+unary operator
+bitwise operator
